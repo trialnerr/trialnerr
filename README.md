@@ -1,9 +1,8 @@
 
 
 
-- Hi there, I am trialnerr,
-- A Software Engineer at Resilient Coders and a freelancer.
-- For work, I enjoy solving problems and creating websites that are not only functional but also accessible and visually appealing.
+- 👋🏾 Hi there, I am trialnerr,
+- 👩🏾‍💻 A Software Engineer at Resilient Coders and a freelancer.
 - 🌱 Outside of work, I enjoy solving puzzles, growing plants and trying very hard not to kill them, dancing, and singing. 
 - ☎️ Connect with me on <a href="https://www.linkedin.com/in/bongi-sibanda">LinkedIn</a>.
 - 💬 Ask me about software engineering, freelancing, React, TypeScript. 
