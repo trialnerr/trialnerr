@@ -1,6 +1,3 @@
-
-
-
 - 👋🏾 Hi there, I am trialnerr,
 - 👩🏾‍💻 A Software Engineer at Resilient Coders and a freelancer.
 - 🌱 Outside of work, I enjoy solving puzzles, growing plants and trying very hard not to kill them, dancing, and singing. 
