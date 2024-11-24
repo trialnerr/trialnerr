@@ -3,8 +3,8 @@
 - 🛠️ Currently learning how to build web & mobile applications. 
 - 🌱 Outside of work, I enjoy solving puzzles, growing plants and trying very hard not to kill them, dancing, and singing. 
 - ⚡ Fun Fact: I speak 4 languages: Ndebele, Shona, English, and Zimbabwean Sign Language.
-- <a href="https://bongisiba.netlify.app/">Portfolio</a>
-- <a href="https://www.linkedin.com/in/bongi-sibanda">LinkedIn</a>
+- Checkout my <a href="https://bongisiba.netlify.app/">Portfolio</a>
+- Connect with me on <a href="https://www.linkedin.com/in/bongi-sibanda">LinkedIn</a>
 
 
 
