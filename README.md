@@ -1,4 +1,4 @@
-![Header](./)
+![Header](./git-header.png)
 - 👋🏾 Hi there, I am trialnerr,
 - 👩🏾‍💻 I am a full-stack software engineer at Resilient Coders and a freelancer (started freelancing this year, and I enjoy it. Hire me for your projects).
 - 🛠️ Currently learning how to build web & mobile applications. 
