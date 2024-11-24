@@ -1,5 +1,5 @@
 ![Header](./git-header.png)
-- 👋🏾 Hi there, I am trialnerr,
+- 👋🏾 Hi there, I'm Bongi Sibanda. 
 - 👩🏾‍💻 I am a full-stack software engineer at Resilient Coders and a freelancer (started freelancing this year, and I enjoy it. Hire me for your projects).
 - 🛠️ Currently learning how to build web & mobile applications. 
 - 🌱 Outside of work, I enjoy solving puzzles, growing plants and trying very hard not to kill them, dancing, and singing. 
